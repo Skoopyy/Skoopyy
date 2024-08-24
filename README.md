@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Skoopyy
-- 👀 Currently I am specializing in web development and Python Machine Learning
+- 👀 I do things.
 - 📫 How to reach me: Interact with me through Github
